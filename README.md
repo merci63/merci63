@@ -1,5 +1,16 @@
-## Hi there 👋
+##  👋 Hello, I'm Mersimoy Bobo
 
+I am a **Computer Science student** at the **University of Alberta**, 
+## 🚀 About Me
+- 🎓 Studying **Computer Science** at the University of Alberta
+- 💻 I know **Java**, **C++**, **C**, **HTML**, **CSS**, and **JavaScript (basics)**
+- 🌱 I am learning **Python** and studying **data structures**
+- 🧠 I like to work on **mobile apps**, **web development**, and **algorithms**, and I am learning more about **software development**
+- 🌐 Visit my [portfolio website] (https://mersi-portfolio.netlify.app) on Netlify!
+
+  ## Contact Me
+  - 🌐 [portfolio website] (https://mersi-portfolio.netlify.app)
+  -  [linkedIn] (https://www.linkedin.com/in/mersimoy-bobo-16091826b)
 <!--
 **merci63/merci63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
