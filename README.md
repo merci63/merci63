@@ -3,8 +3,8 @@
 I am a **Computer Science student** at the **University of Alberta**, 
 ## 🚀 About Me
 - 🎓 Studying **Computer Science** at the University of Alberta
-- 💻 I know **Java**, **C++**, **C**, **HTML**, **CSS**, and **JavaScript (basics)**
-- 🌱 I am learning **Python** and studying **data structures**
+- 💻 I know **Java**, **C++**, **C**, **HTML**, **CSS**, **JavaScript (basics)**, and **data structures**
+- 🌱 I am learning **Python** and exploring new technologies
 - 🧠 I like to work on **mobile apps**, **web development**, and **algorithms**, and I am learning more about **software development**
 - 🌐 Visit my [portfolio website] (https://mersi-portfolio.netlify.app) on Netlify!
 
