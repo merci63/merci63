@@ -10,7 +10,7 @@ I am a **Computer Science student** at the **University of Alberta**,
 
   ## Contact Me
   - 🌐 [portfolio website] (https://mersi-portfolio.netlify.app)
-  -  [linkedIn] (https://www.linkedin.com/in/mersimoy-bobo-16091826b)
+  -  [linkedIn] (https://www.linkedin.com/in/mersimoy-bobo)
 <!--
 **merci63/merci63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
